@@ -1,0 +1,81 @@
+---
+import { getCollection } from "astro:content"
+import NavMainItem from "../nav/NavMainItem.astro"
+
+const authors = await getCollection("authors")
+const categories = await getCollection("categories")
+const blogTypes = await getCollection("blog_types")
+const pages = await getCollection("pages")
+const menuMax = 11
+---
+
+<nav
+	aria-label="Main Navigation"
+	class="pointer-events-none absolute right-3 top-16 flex flex-col gap-x-8 gap-y-4 rounded bg-gradient-to-b from-neutral-800/90 to-neutral-950/90 py-4 opacity-0 transition-all duration-500 ease-in-out group-has-[input:checked]:pointer-events-auto group-has-[input:checked]:opacity-100 lg:pointer-events-auto lg:static lg:flex lg:w-auto lg:flex-row lg:items-center lg:bg-none lg:py-0 lg:opacity-100"
+>
+	{
+		pages && pages.length > 0 && pages.length < menuMax && (
+			<ul class="flex flex-col gap-6 text-neutral-600 lg:flex-row lg:items-center lg:gap-14">
+				<NavMainItem title="Pages" data={pages} />
+			</ul>
+		)
+	}
+	{
+		pages && pages.length >= menuMax && (
+			<a
+				class="px-6 font-semibold text-neutral-300 underline-offset-4 hover:text-white hover:underline lg:px-0"
+				href="/pages"
+			>
+				Pages
+			</a>
+		)
+	}
+	{
+		blogTypes && blogTypes.length > 0 && (
+			<ul class="flex flex-col gap-6 text-neutral-600 lg:flex-row lg:items-center lg:gap-14">
+				<NavMainItem title="Blog" data={blogTypes} route="blog" />
+			</ul>
+		)
+	}
+	{
+		authors && authors.length > 0 && (
+			<ul class="flex flex-col gap-6 text-neutral-600 lg:flex-row lg:items-center lg:gap-14">
+				<NavMainItem title="Authors" data={authors} route="author" />
+			</ul>
+		)
+	}
+	{
+		categories && categories.length > 0 && (
+			<ul class="flex flex-col gap-6 text-neutral-600 lg:flex-row lg:items-center lg:gap-14">
+				<NavMainItem title="Categories" data={categories} route="category" />
+			</ul>
+		)
+	}
+</nav>
+
+<!-- polyfill for anchor positioning -->
+<script>
+	if (!("anchorName" in document.documentElement.style)) {
+		const loadPolyfill = async () => {
+			// remove previous --anchor- entries from style attribute
+			const styleAttribute = document.documentElement.getAttribute("style")
+			if (styleAttribute) {
+				const styles = styleAttribute
+					?.split(";")
+					.map((item) => item.trim())
+					.filter((item) => !item.startsWith("--anchor-"))
+				if (styles && styles.length > 0) {
+					document.documentElement.setAttribute("style", styles.join("; "))
+				}
+			}
+			const { default: polyfill } = await import(
+				"https://unpkg.com/@oddbird/css-anchor-positioning/dist/css-anchor-positioning-fn.js"
+			)
+			await polyfill(true)
+			console.log("Polyfill loaded!")
+		}
+
+		document.addEventListener("astro:page-load", loadPolyfill)
+		// document.addEventListener("astro:after-swap", loadPolyfill)
+	}
+</script>

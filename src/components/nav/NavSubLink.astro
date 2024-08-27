@@ -1,0 +1,17 @@
+---
+export interface Props {
+	href: string
+	class?: string
+}
+
+const { href, class: className } = Astro.props as Props
+---
+
+<a
+	{href}
+	class:list={[
+		"inline-block max-w-[80vw] overflow-x-hidden text-ellipsis whitespace-nowrap font-medium text-neutral-300 no-underline decoration-white underline-offset-4 hover:text-white hover:underline aria-[current='page']:pointer-events-none aria-[current='page']:underline md:max-w-[20vw]",
+		className
+	]}
+	aria-current={Astro.url.pathname === href ? "page" : null}><slot /></a
+>

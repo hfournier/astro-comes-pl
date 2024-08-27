@@ -1,0 +1,52 @@
+---
+import type { CollectionEntry } from "astro:content"
+import { Icon } from "astro-icon/components"
+
+export interface Props {
+	title: string
+	data:
+		| CollectionEntry<"authors">[]
+		| CollectionEntry<"categories">[]
+		| CollectionEntry<"blog_types">[]
+		| CollectionEntry<"pages">[]
+	route?: string
+}
+
+const { title, data, route } = Astro.props as Props
+---
+
+<li class="mainmenu-item group/submenu px-4 lg:px-0">
+	<button
+		id={`${data[0].collection}-submenu-btn`}
+		popovertarget={`${data[0].collection}-submenu-item`}
+		class="flex items-center gap-1 px-2 text-neutral-300 hover:text-white lg:px-0"
+		style=`anchor-name: --${data[0].collection}-submenu-btn`>
+		<div class="font-semibold">{title}</div>
+		<Icon
+			class="size-5 transition-all duration-200 group-has-[:popover-open]/submenu:rotate-180"
+			aria-hidden="true"
+			name="mdi:menu-down"
+		/>
+	</button>
+	<div
+		id={`${data[0].collection}-submenu-item`}
+		class="inset-[unset] right-[anchor(left)] top-[anchor(bottom)] mt-1 rounded p-0 opacity-0 shadow lg:left-[anchor(left)] [&:popover-open]:animate-fadeIn"
+		style=`position-anchor: --${data[0].collection}-submenu-btn;`
+		popover="auto">
+		{
+			data.length > 0 && (
+				<ul class="flex flex-col border border-neutral-300 bg-white/90 p-2">
+					{data.map((entry) => (
+						<li class="w-full px-4 py-1 text-left first-of-type:rounded-t last-of-type:rounded-b hover:bg-neutral-200 disabled:text-neutral-500">
+							<a
+								class="block whitespace-nowrap"
+								href={`${route ? "/" + route : ""}/${entry.data.slug}`}>
+								{entry.data.name}
+							</a>
+						</li>
+					))}
+				</ul>
+			)
+		}
+	</div>
+</li>

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://http://beckylord.co.uk/sitemap-index.xml

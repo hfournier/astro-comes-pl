@@ -1,0 +1,13 @@
+---
+interface Props extends astroHTML.JSX.AnchorHTMLAttributes {
+	href: string
+}
+
+const { href, ...attrs } = Astro.props as Props
+---
+
+<a
+	class="rounded-lg border-2 border-neutral-500 px-4 py-2 !no-underline shadow-md hover:shadow-lg"
+	{href}
+	{...attrs}><slot /></a
+>

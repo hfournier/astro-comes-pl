@@ -1,0 +1,66 @@
+---
+import { getCollection } from "astro:content"
+import NavSubItem from "./NavSubItem.astro"
+import NavSubLink from "./NavSubLink.astro"
+
+const pages = await getCollection("pages")
+const blogTypes = await getCollection("blog_types")
+const authors = await getCollection("authors")
+const categories = await getCollection("categories")
+const maxItems = 5
+---
+
+<nav
+	aria-label="Footer Navigation"
+	class="grid place-items-start gap-8 px-2 pt-4 text-sm md:grid-cols-5"
+>
+	<NavSubLink class="text-lg font-semibold" href="/">Home</NavSubLink>
+	{
+		pages && pages.length > 0 && (
+			<div class="">
+				<div class="text-lg font-semibold">{pages.length > 1 ? "Pages" : "Page"}</div>
+				<ul class="flex list-inside flex-col gap-1">
+					{pages.map((page) => (
+						<NavSubItem href={`/${page.data.slug}`}>{page.data.name}</NavSubItem>
+					))}
+				</ul>
+			</div>
+		)
+	}
+	{
+		blogTypes && blogTypes.length > 0 && (
+			<div class="">
+				<div class="text-lg font-semibold">{blogTypes.length > 1 ? "Blogs" : "Blog"}</div>
+				<ul class="flex list-inside flex-col gap-1">
+					{blogTypes.map((blogType) => (
+						<NavSubItem href={`/blog/${blogType.data.slug}`}>{blogType.data.name}</NavSubItem>
+					))}
+				</ul>
+			</div>
+		)
+	}
+	{
+		authors && authors.length > 0 && (
+			<div class="">
+				<div class="text-lg font-semibold">{authors.length > 1 ? "Authors" : "Author"}</div>
+				<ul class="flex list-inside flex-col gap-1">
+					{authors.map((author) => (
+						<NavSubItem href={`/author/${author.id}`}>{author.data.name}</NavSubItem>
+					))}
+				</ul>
+			</div>
+		)
+	}
+	{
+		categories && categories.length > 0 && (
+			<div class="">
+				<div class="text-lg font-semibold">{categories.length > 1 ? "Categories" : "Category"}</div>
+				<ul class="flex list-inside flex-col gap-1">
+					{categories.map((category) => (
+						<NavSubItem href={`/category/${category.id}`}>{category.data.name}</NavSubItem>
+					))}
+				</ul>
+			</div>
+		)
+	}
+</nav>

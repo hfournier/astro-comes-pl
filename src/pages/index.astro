@@ -1,0 +1,238 @@
+---
+import { SITE_DESCRIPTION, SITE_TITLE } from "src/consts"
+import MainLayout from "@layouts/MainLayout.astro"
+import Seo from "@components/seo/Seo.astro"
+---
+
+<MainLayout title={SITE_TITLE} description={SITE_DESCRIPTION}>
+	<Seo slot="head" seo={{ title: SITE_TITLE, description: SITE_DESCRIPTION }} />
+	<div
+		class="prose-code:rounded prose-code:border prose-code:border-neutral-300 prose-code:bg-neutral-200 prose-code:px-1 prose-code:before:content-[''] prose-code:after:content-[''] [&_pre_>_code]:border-none [&_pre_>_code]:bg-inherit"
+	>
+		<h2>Features</h2>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro consectetur quaerat amet ea
+			dolore ipsum a, vitae earum debitis quod similique nulla fugiat blanditiis et iure quasi!
+			Voluptatem, repudiandae ab?
+		</p>
+		<h3>Pages</h3>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas, odio, voluptatem numquam optio
+			adipisci ducimus vero laborum accusantium voluptatum nobis ullam, nesciunt delectus ut sit
+			odit necessitatibus illum et quasi.
+		</p>
+		<ul>
+			<li>
+				If the user selects to migrate <strong>WordPress</strong> pages, the pages will be converted
+				to .astro files and saved in the <code>src/pages</code> folder
+			</li>
+			<li>
+				Page hierarchy will be preserved, so existing links will remain valid.<br />For example,
+				<code>https://your-wp-site.com/book/</code> and&nbsp;
+				<code>https://your-wp-site.com/book/book1</code> would become:
+				<pre>
+<code>
+  src/
+  ├─ pages/
+  │  ├─ book/
+  │  │  ├─ book1.astro
+  │  │  ├─ book2.astro
+  │  ├─ book.astro
+</code></pre>
+			</li>
+			<li>
+				A Pages collection will be created in <code>src/content/pages</code> to provide access to all
+				the migrated pages, which can be viewed at <code
+					><a href="http://localhost:4321/pages">http://localhost:4321/pages</a></code
+				>. This collection is provided as a matter of convenience only and not intended as a feature
+				to keep as part of the website.
+			</li>
+			<li>Page meta data will be saved in the frontmatter</li>
+			<ul>
+				<li>
+					If <strong>Yoast</strong> was used in <strong>WordPress</strong>, then an seo object
+					compatible with <code>astro-seo</code>
+					will also be saved in the frontmatter
+				</li>
+			</ul>
+			<li>
+				<code>class</code> and <code>style</code> attributes will be removed from all HTML tags
+			</li>
+			<li>Empty HTML tags will be removed</li>
+			<li>
+				<code>&lt;img /&gt;</code> tags with local images will be converted to Astro <code
+					>&lt;Image /&gt;</code
+				>
+				components
+				<ul>
+					<li>An import statement will be added for the Astro <code>Image</code> component</li>
+					<li>An import statement will be added for the image</li>
+					<li>The image will be downloaded and saved in the <code>src/assets</code> folder</li>
+					<li>
+						The <code>srcset</code> attribute (if present) will be converted to a <code>widths</code
+						>
+						or <code>densities</code> attribute, as appropriate
+					</li>
+					<li>
+						Missing <code>alt</code> attributes will be replaced with: <code
+							>alt="TODO: update alt text"</code
+						>
+					</li>
+					<li>All other attributes will be preserved</li>
+				</ul>
+			</li>
+			<li>
+				<code>&lt;picture /&gt;</code> tags will be converted to Astro <code>&lt;Picture /&gt;</code
+				>
+				components
+				<ul>
+					<li>An import statement will be added for the Astro <code>Picture</code> component</li>
+					<li>An import statement will be added for the image</li>
+					<li>
+						The image from the <code>&lt;img /&gt;</code> tag will be downloaded and saved in the <code
+							>src/assets</code
+						> folder
+					</li>
+					<li>
+						The <code>srcset</code> attribute of the <code>&lt;source /&gt;</code> tag(s) will be converted
+						to a
+
+						<code>widths</code>
+						or <code>densities</code> attribute, as appropriate
+					</li>
+					<li>
+						Missing <code>alt</code> attributes will be replaced with: <code
+							>alt="TODO: update alt text"</code
+						>
+					</li>
+					<li>All other attributes will be preserved</li>
+				</ul>
+			</li>
+		</ul>
+		<h3>Posts</h3>
+		<p>
+			Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam aliquam provident excepturi
+			dolores! Optio, possimus expedita nihil culpa tempore voluptatibus sequi perspiciatis quas,
+			nemo blanditiis similique ipsam pariatur aspernatur commodi!
+		</p>
+		<ul>
+			<li>
+				If the user selects to migrate <strong>WordPress</strong> posts and/or custom post types, the
+				posts will be converted to markdown (choice of .md|.mdx|.mdoc files) and saved in the <code
+					>src\content\<span class="italic">post-type</span></code
+				> folder
+			</li>
+			<li>Post meta data will be saved in the frontmatter</li>
+			<ul>
+				<li>
+					If <strong>Yoast</strong> was used in <strong>WordPress</strong>, then an seo object
+					compatible with <code>astro-seo</code>
+					will also be saved in the frontmatter
+				</li>
+			</ul>
+			<li>
+				If the user selected .md|.mdoc as their markdown choice, then:
+				<ul>
+					<li>
+						<code>&lt;img /&gt;</code> tags with local images will be converted to standard markdown
+						image markup
+						<ul>
+							<li>The image will be downloaded and saved in the <code>/public</code> folder</li>
+							<li>
+								The <code>src</code> attribute will converted to a relative path
+							</li>
+						</ul>
+					</li>
+					<ul>
+						<li>The image(s) will be downloaded and saved in the <code>/public</code> folder</li>
+						<li>
+							The <code>src</code> attribute will converted to a relative path
+						</li>
+					</ul>
+				</ul>
+			</li>
+			<li>
+				<code>&lt;picture /&gt;</code> tags will be preserved as HTML
+			</li>
+			<li>
+				If the user selected .mdx as their markdown choice, then:
+				<ul>
+					<li>
+						<code>&lt;img /&gt;</code> tags with local images will be converted to Astro <code
+							>&lt;Image /&gt;</code
+						>
+						components
+						<ul>
+							<li>An import statement will be added for the Astro <code>Image</code> component</li>
+							<li>An import statement will be added for the image</li>
+							<li>The image will be downloaded and saved in the <code>src/assets</code> folder</li>
+							<li>
+								The <code>srcset</code> attribute (if present) will be converted to a <code
+									>widths</code
+								>
+								or <code>densities</code> attribute, as appropriate
+							</li>
+							<li>
+								Missing <code>alt</code> attributes will be replaced with: <code
+									>alt="TODO: update alt text"</code
+								>
+							</li>
+							<li>All other attributes will be preserved</li>
+						</ul>
+					</li>
+					<li>
+						<code>&lt;picture /&gt;</code> tags will be converted to Astro <code
+							>&lt;Picture /&gt;</code
+						>
+						components
+						<ul>
+							<li>
+								An import statement will be added for the Astro <code>Picture</code> component
+							</li>
+							<li>An import statement will be added for the image</li>
+							<li>The image will be downloaded and saved in the <code>src/assets</code> folder</li>
+							<li>
+								The <code>srcset</code> attribute of the <code>source</code> tag(s) will be converted
+								to a
+
+								<code>widths</code>
+								or <code>densities</code> attribute, as appropriate
+							</li>
+							<li>
+								Missing <code>alt</code> attributes will be replaced with: <code
+									>alt="TODO: update alt text"</code
+								>
+							</li>
+							<li>All other attributes will be preserved</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<h3>Content</h3>
+		<p>
+			Content types (if selected), like category, users, tags, etc., will be saved as <code
+				>json</code
+			> files in a <code>src/content/<span class="italic">collection-name</span></code> folder.
+		</p>
+		<h3>Data</h3>
+		<p>
+			Other data types (if selected), like statuses, taxonomies, types, etc., will be saved as <code
+				>json</code
+			> files in the <code>src/data</code> folder.
+		</p>
+		<h3>Media</h3>
+		<p>
+			If selected for migration, the media files will be downloaded and saved in the <code
+				>src/assets</code
+			> folder. However, in most cases, this won't be necessary as the media files from each page and/or
+			post will be downloaded and saved as necessary.
+		</p>
+		<h3>More</h3>
+		<p>
+			Lorem ipsum dolor sit amet consectetur adipisicing elit. Nisi nesciunt laborum quos neque qui
+			modi natus, nam eligendi sequi, perferendis enim. Excepturi voluptatem rem id assumenda at
+			tempore ea soluta?
+		</p>
+	</div>
+</MainLayout>

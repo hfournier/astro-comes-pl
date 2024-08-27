@@ -1,0 +1,39 @@
+---
+wpId: 1938
+title: 'Plac zabaw przy Miejskim Zespole Szkół w Biłgoraju'
+description: 'Latem 2011 roku przy Miejskim Zespole Szkół w Biłgoraju zrealizowano projekt placu zabaw wyposażonego w urządzenia firmy COMES. Wykonawcą inwestycji była Firma P.U.H.P. ATOS Eksport-Import z Biłgoraja.'
+type: realizacje
+createdAt: 2015-01-27T13:19:33
+modifiedAt: 2024-07-30T17:18:07
+author: comes_admin
+---
+
+
+Plac zabaw zlokalizowany jest przy ul. Sienkiewicza 6, tuż obok znajduje się system boisk sportowych – tak zagospodarowana przestrzeń stwarza wspaniałe warunki do prawidłowego rozwoju dzieci i młodzieży, zachęca do przebywania na świeżym powietrzu i aktywności fizycznej.
+
+Na placu zabaw wykorzystano m.in. takie urządzenia firmy COMES jak:
+
+*   Zestaw rekreacyjny dwuwieżowy „PIONIER B”,
+*   Huśtawka wahadłowa „[PIOTR AAG](https://comes.pl/p/hustawka-piotr-3-b1b1g/)”,
+*   Ścianka linowo-łukowa,
+*   Urządzenie ruchowe „ŻÓŁW I” (bez poręczy górnej),
+*   Urządzenie „ZYGZAK”,
+*   Przeplotnia „TERCET”,
+*   Huśtawka wagowa Ważka „MOTYL”,
+*   Huśtawka sprężynowa „[KONIK](https://comes.pl/p/hustawka-sprezynowa-konik/)”.
+
+\[su\_gmap width=”1200″ height=”400″ address=”Biłgoraj, ul. Sienkiewicza 6″\]
+
+## Galeria zdjęć
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-427x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-427x320.jpg 427w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-220x165.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-650x488.jpg 650w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-768x576.jpg 768w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-230x173.jpg 230w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj-213x160.jpg 213w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-bilgoraj/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-427x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-427x320.jpg 427w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-220x165.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-650x488.jpg 650w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-768x576.jpg 768w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-230x173.jpg 230w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju-213x160.jpg 213w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-comes-w-bilgoraju/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-427x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-427x320.jpg 427w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-220x165.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-650x488.jpg 650w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-768x576.jpg 768w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-230x173.jpg 230w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj-213x160.jpg 213w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-dla-dzieci-bilgoraj/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-427x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-427x320.jpg 427w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-220x165.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-650x488.jpg 650w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-768x576.jpg 768w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-230x173.jpg 230w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2-213x160.jpg 213w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-2/)
+
+[<img loading="lazy" decoding="async" width="240" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-240x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-240x320.jpg 240w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-220x293.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-540x720.jpg 540w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-173x230.jpg 173w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3-120x160.jpg 120w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3.jpg 600w" sizes="(max-width: 240px) 100vw, 240px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-3/)
+
+[<img loading="lazy" decoding="async" width="240" height="320" src="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-240x320.jpg" alt="plac zabaw w Biłgoraju" srcset="/images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-240x320.jpg 240w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-220x293.jpg 220w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-540x720.jpg 540w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-173x230.jpg 173w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4-120x160.jpg 120w, /images/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4.jpg 600w" sizes="(max-width: 240px) 100vw, 240px" />](https://comes.pl/realizacje/plac-zabaw-przy-miejskim-zespole-szkol-w-bilgoraju/plac-zabaw-w-bilgoraju-4/)

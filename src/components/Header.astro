@@ -1,0 +1,20 @@
+---
+import { SITE_TITLE } from "src/consts"
+import NavMain from "./nav/NavMain.astro"
+import NavToggle from "./nav/NavToggle.astro"
+---
+
+<header class="isolate w-full bg-gradient-to-b from-neutral-800 to-neutral-950">
+	<div
+		class="group container relative mx-auto flex max-w-screen-lg flex-wrap items-center justify-between bg-gradient-to-b from-neutral-800 to-neutral-950 px-6 py-3"
+	>
+		<div class="flex flex-shrink-0 items-center">
+			<a
+				class="text-2xl !text-neutral-200 !no-underline decoration-white underline-offset-4 hover:!text-white hover:!underline"
+				href="/">{SITE_TITLE}</a
+			>
+		</div>
+		<NavMain />
+		<NavToggle />
+	</div>
+</header>

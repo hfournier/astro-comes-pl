@@ -1,0 +1,25 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+	.scrollable::-webkit-scrollbar {
+		@apply size-2 bg-neutral-100;
+	}
+	.scrollable::-webkit-scrollbar-track {
+		@apply rounded-full bg-neutral-100;
+	}
+	.scrollable::-webkit-scrollbar-thumb {
+		@apply rounded-full bg-neutral-600 hover:bg-neutral-800;
+	}
+	@supports (scrollbar-color: darkgray lightgray) {
+		.scrollable {
+			scrollbar-width: thin;
+			scrollbar-color: theme(colors.neutral.700) theme(colors.neutral.100);
+		}
+	}
+
+	.grid-pile {
+		grid-area: 1/1;
+	}
+}

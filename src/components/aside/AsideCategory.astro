@@ -1,0 +1,46 @@
+---
+import AsideLayout from "@layouts/AsideLayout.astro"
+import { getCollection, type CollectionEntry } from "astro:content"
+
+export interface Props {
+	entry: CollectionEntry<"categories">
+}
+
+const { entry } = Astro.props as Props
+
+const blogTypes = await getCollection("blog_types")
+const collections = await Promise.all(
+	blogTypes.map((blogType) => {
+		return getCollection(
+			"blogs",
+			(blog) =>
+				blog.slug.startsWith(`${blogType.id}/`) &&
+				(blog.data.categoryIds?.includes(entry.data.wpId) ||
+					blog.data.categories?.find((cat) => cat.id === entry.id))
+		)
+	})
+)
+---
+
+<AsideLayout title="Articles in this category:">
+	<ul class="flex flex-col gap-3 pl-4" role="list">
+		{
+			collections.map(
+				(collection, index) =>
+					collection.length > 0 && (
+						<li>
+							<a
+								class="flex items-start gap-1"
+								href={`/blog/${blogTypes[index].data.collectionName}?category=${entry.id}`}
+							>
+								<span>{blogTypes[index].data.name}</span>
+								<span class="rounded-full bg-neutral-600 px-1 py-0.5 text-[10px] font-semibold leading-3 text-neutral-100">
+									{collection.length}
+								</span>
+							</a>
+						</li>
+					)
+			)
+		}
+	</ul>
+</AsideLayout>

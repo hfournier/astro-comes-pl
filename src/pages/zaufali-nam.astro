@@ -1,0 +1,226 @@
+---
+import MainLayout from "@layouts/MainLayout.astro"
+import { Image } from "astro:assets"
+
+import assets_images_zaufali_nam_comes_wyszkow_zmniejszone_1_of_17_1536x1024_jpg from "@assets/images/zaufali-nam/comes-wyszkow-zmniejszone-1-of-17-1536x1024.jpg";
+import assets_images_zaufali_nam_zwolen_png from "@assets/images/zaufali-nam/zwolen.png";
+import assets_images_zaufali_nam_skala_gmina_jpg from "@assets/images/zaufali-nam/skala-gmina.jpg";
+import assets_images_zaufali_nam_download_png from "@assets/images/zaufali-nam/download.png";
+import assets_images_zaufali_nam_gmina_golcza_png from "@assets/images/zaufali-nam/gmina-golcza.png";
+import assets_images_zaufali_nam_gmina_mielec_jpg from "@assets/images/zaufali-nam/gmina-mielec.jpg";
+import assets_images_zaufali_nam_jedlinsk_png from "@assets/images/zaufali-nam/jedlinsk.png";
+import assets_images_zaufali_nam_sm_piekary_jpg from "@assets/images/zaufali-nam/sm-piekary.jpg";
+import assets_images_zaufali_nam_sm_przylesie_png from "@assets/images/zaufali-nam/sm-przylesie.png";
+import assets_images_zaufali_nam_sosnowiec_png from "@assets/images/zaufali-nam/sosnowiec.png";
+import assets_images_zaufali_nam_garbatka_letnisko_jpg from "@assets/images/zaufali-nam/garbatka-letnisko.jpg";
+import assets_images_zaufali_nam_lepsza_gmina_gniewoszow_png from "@assets/images/zaufali-nam/lepsza-gmina-gniewoszow.png";
+import assets_images_zaufali_nam_jedlnia_letnisko_jpg from "@assets/images/zaufali-nam/jedlnia-letnisko.jpg";
+import assets_images_zaufali_nam_sm_energetyk_png from "@assets/images/zaufali-nam/sm-energetyk.png";
+import assets_images_zaufali_nam_gmina_olesnica_png from "@assets/images/zaufali-nam/gmina-olesnica.png";
+import assets_images_zaufali_nam_zlote_lany_png from "@assets/images/zaufali-nam/zlote-lany.png";
+import assets_images_zaufali_nam_dabrowa_png from "@assets/images/zaufali-nam/dabrowa.png";
+import assets_images_zaufali_nam_myslowiece_jpg from "@assets/images/zaufali-nam/myslowiece.jpg";
+import assets_images_zaufali_nam_piwniczna_zdroj_png from "@assets/images/zaufali-nam/piwniczna-zdroj.png";
+import assets_images_zaufali_nam_gmina_nowe_miasto_lubawskie_png from "@assets/images/zaufali-nam/gmina-nowe-miasto-lubawskie.png";
+import assets_images_zaufali_nam_drogpol_png from "@assets/images/zaufali-nam/drogpol.png";
+import assets_images_zaufali_nam_laczyca_png from "@assets/images/zaufali-nam/laczyca.png";
+import assets_images_zaufali_nam_mcz_herb_png from "@assets/images/zaufali-nam/mcz_herb.png";
+import assets_images_zaufali_nam_osm_przyszlosc_opole_png from "@assets/images/zaufali-nam/osm-przyszlosc-opole.png";
+import assets_images_zaufali_nam_czestochowa_jpg from "@assets/images/zaufali-nam/czestochowa.jpg";
+import assets_images_zaufali_nam_skmbt_c22020122110550_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110550-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110542_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110542-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110541_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110541-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110532_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110532-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110531_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110531-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110530_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110530-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110521_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110521-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110520_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110520-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110511_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110511-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110510_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110510-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110501_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110501-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110500_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110500-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110491_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110491-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110490_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110490-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110482_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110482-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110481_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110481-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110480_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110480-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110460_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110460-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110452_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110452-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110451_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110451-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110450_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110450-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110441_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110441-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110440_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110440-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110431_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110431-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110430_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110430-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110420_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110420-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110410_1_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110410-1-724x1024.jpeg";
+import assets_images_zaufali_nam_skmbt_c22020122110551_724x1024_jpeg from "@assets/images/zaufali-nam/skmbt_c22020122110551-724x1024.jpeg";
+import assets_images_zaufali_nam_gwarancja_jakosci_e1608301151532_png from "@assets/images/zaufali-nam/gwarancja-jakosci-e1608301151532.png";
+
+const wpId = 2677
+const title = "Zaufali Nam"
+const description = "Nasze place zabaw i tereny sportowo-rekreacyjne możecie Państwo oglądać na terenie całego kraju oraz poza jego granicami. Dokładamy wszelkich starań aby produkowane przez nas urządzenia charakteryzowały się trwałością, funkcjonalnością oraz pięknym wzornictwem. Na pierwszym miejscu jest u nas bezpieczeństwo użytkowników, dlatego nasze urzadzenia spełniają polskie i europejskie normy bezpieczeństwa. Warto podkreślić, że współpracujemy zarówno z przedszkolami, szkołami, ..."
+const status = "publish"
+const type = "page"
+const createdAt = new Date("2012-12-07T01:35:18")
+const modifiedAt = new Date("2021-01-19T14:12:56")
+const author = "comes_admin"
+---
+
+<MainLayout {title} {description}>
+
+<figure ><Image loading="lazy" decoding="async" width="1536" height="1024" alt="Comes - Plac zabaw w Wyszkowie" sizes="(max-width: 1536px) 100vw, 1536px" src={assets_images_zaufali_nam_comes_wyszkow_zmniejszone_1_of_17_1536x1024_jpg} widths={[1536, 220, 650, 480, 1080, 768, 230, 240, 1920]} /></figure>
+
+
+
+<p> Nasze place zabaw i tereny sportowo-rekreacyjne możecie Państwo oglądać na terenie całego kraju oraz poza jego granicami. Dokładamy wszelkich starań aby produkowane przez nas urządzenia charakteryzowały się trwałością, funkcjonalnością oraz pięknym wzornictwem. <br><strong>Na pierwszym miejscu jest u nas bezpieczeństwo użytkowników, dlatego nasze urzadzenia spełniają polskie i europejskie normy bezpieczeństwa.</strong> Warto podkreślić, że współpracujemy zarówno z przedszkolami, szkołami, żłobkami, spółdzielniami mieszkaniowymi, gminami, ośrodkami wypoczynkowymi, czy restauracjami. </p>
+
+
+
+
+
+
+
+<p>Nasza firma ma na swoim koncie <strong>tysiące realizacji i wpółpracowała z wieloma podmiotami</strong>, takimi jak gminy, powiaty, miasta, spółdzielnie mieszkaniowe, przedszkola, szkoły, i wiele innych. <strong>To kilka wybranych:</strong></p>
+
+
+
+<div ><div   data-in="none" data-reset="false" data-emergence="hidden">
+
+
+
+
+
+
+
+
+        <!-- logo gwarancja -->
+        <div id="" >
+            <div >
+                                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_zwolen_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_skala_gmina_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_download_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_gmina_golcza_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_gmina_mielec_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_jedlinsk_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_sm_piekary_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_sm_przylesie_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_sosnowiec_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_garbatka_letnisko_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_lepsza_gmina_gniewoszow_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_jedlnia_letnisko_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_sm_energetyk_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_gmina_olesnica_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_zlote_lany_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_dabrowa_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_myslowiece_jpg} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_piwniczna_zdroj_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_gmina_nowe_miasto_lubawskie_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_drogpol_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_laczyca_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_mcz_herb_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_osm_przyszlosc_opole_png} />
+                </div>    
+                                <div >
+                    <Image decoding="async" alt="TODO: update alt text" src={assets_images_zaufali_nam_czestochowa_jpg} />
+                </div>    
+                            </div>
+        </div>
+        <!-- logo gwarancja -->
+        
+</div></div>
+
+
+
+
+
+
+
+<h2  >Nasze referencje</h2>
+
+
+
+<p> Nasza firma może pochwalić się bardzo dobrymi referencjami, wystawionymi po realizacji przeróżnych projektów. Od tych najmniejszych, po bardzo duże, wielozadaniowe realizację. Cieszymy się, że mogliśmy dla państwa pracować przy tych ciekawych i ważnych projektach.</p>
+
+
+
+
+<ul ><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110550-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="TODO: update alt text" data-id="8407" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110550/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110550_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110542-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="TODO: update alt text" data-id="8406" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110542/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110542_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110541-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="TODO: update alt text" data-id="8405" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110541/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110541_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110532-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8404" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110532/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110532_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110531-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8403" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110531/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110531_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110530-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8402" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110530/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110530_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110521-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8401" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110521/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110521_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110520-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8400" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110520/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110520_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110511-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8399" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110511/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110511_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110510-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8398" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110510/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110510_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110501-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8397" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110501/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110501_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110500-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8396" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110500/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110500_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110491-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8395" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110491/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110491_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110490-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8394" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110490/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110490_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110482-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8393" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110482/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110482_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110481-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8392" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110481/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110481_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110480-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8391" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110480/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110480_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110460-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8390" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110460/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110460_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110452-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8389" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110452/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110452_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110451-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8388" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110451/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110451_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110450-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8387" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110450/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110450_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110441-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8386" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110441/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110441_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110440-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8385" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110440/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110440_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110431-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8384" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110431/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110431_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110430-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8383" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110430/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110430_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110420-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8382" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110420/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110420_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110410-1-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8381" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110410-2/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110410_1_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li><li ><figure><a href="/wp-content/uploads/2021/01/skmbt_c22020122110551-724x1024.jpeg"><Image loading="lazy" decoding="async" width="724" height="1024" alt="Comes - Referencje" data-id="8380" data-link="https://comes.pl/zaufali-nam/skmbt_c22020122110551/" sizes="(max-width: 724px) 100vw, 724px" src={assets_images_zaufali_nam_skmbt_c22020122110551_724x1024_jpeg} widths={[724, 220, 650, 226, 509, 768, 1086, 1448, 163, 113, 1653]} /></a></figure></li></ul>
+
+
+
+
+
+
+
+<div >
+
+
+
+
+
+</div>
+
+
+
+
+<h2  >Gwarancja zgodności z normami bezpieczeństwa</h2>
+
+
+
+<div ><figure ><Image loading="lazy" decoding="async" width="800" height="138" alt="TODO: update alt text" sizes="(max-width: 800px) 100vw, 800px" src={assets_images_zaufali_nam_gwarancja_jakosci_e1608301151532_png} widths={[800, 220, 650, 480, 768, 230, 240]} /></figure></div>
+
+
+
+<hr />
+
+
+
+<p >Zapraszamy do obejrzenia realcji z <a href="/realizacje">naszcyh realizacji</a>! W razie pytań zapraszamy do <a href="/kontakt">kontaktu</a>. Jesteśmy też na <a href="https://www.facebook.com/pl.comes/">Facebooku</a>!</p>
+
+</MainLayout>

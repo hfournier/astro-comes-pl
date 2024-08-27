@@ -1,0 +1,46 @@
+---
+wpId: 1847
+title: 'Plac zabaw w Czarnym Borze'
+description: 'Plac zabaw w Czarnym Borze, to przykład inwestycji opierającej się na doposażeniu już istniejącego obiektu. Gmina Czarny Bór postawiła na naszą tegoroczną nowość – Zestaw rekreacyjny trzywieżowy, o konstrukcji wykonanej ze stali nierdzewnej.'
+type: realizacje
+createdAt: 2014-12-17T18:03:44
+modifiedAt: 2019-10-09T11:22:16
+author: comes_admin
+---
+
+
+Jest to wielofunkcyjne urządzenie, które dzięki swej prostej formie, ciekawej konstrukcji i designie, który wkomponuje się w każdą przestrzeń – będzie nie tylko użyteczną pomocą podczas zabawy ale też ozdobą otoczenia. Zastosowanie najwyższej jakości materiałów zapewnia trwałość i bezpieczeństwo oraz odporność na niekorzystne warunki atmosferyczne, czy też akty wandalizmu.
+
+W skład zestawu wchodzą m.in. takie elementy jak :
+
+*   wieże z dachemjednospadowym
+*   wieża z kalenicami
+*   zjeżdżalnia
+*   schody tunelowe
+*   ściana wspinaczkowa prosta
+*   huśtawka jednopunktowa
+*   przejście spirala
+*   ścianka linowa łuk
+*   przejście obręczowe
+*   wejście linowe łukowe
+*   ścianka linowa fala
+
+\[su\_gmap width=”1200″ height=”400″ address=”Czarny Bór”\]
+
+## Galeria zdjęć
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/1-plac-zabaw-w-czarnym-borze-2/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/2-plac-zabaw-w-czarnym-borze-3/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/3-plac-zabaw-w-czarnym-borze-4/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/4-plac-zabaw-w-czarnym-borze-5/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/5-plac-zabaw-w-czarnym-borze-6/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/6-plac-zabaw-w-czarnym-borze-7/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/7-plac-zabaw-w-czarnym-borze-8/)
+
+[<img loading="lazy" decoding="async" width="427" height="320" src="/images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-427x320.jpg" alt="plac zabaw w Czarnym Borze" srcset="/images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-427x320.jpg 427w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-220x165.jpg 220w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-650x488.jpg 650w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-768x576.jpg 768w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-230x173.jpg 230w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1-213x160.jpg 213w, /images/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1.jpg 800w" sizes="(max-width: 427px) 100vw, 427px" />](https://comes.pl/realizacje/plac-zabaw-w-czarnym-borze/8-plac-zabaw-w-czarnym-borze-1/)

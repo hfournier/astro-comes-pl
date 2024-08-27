@@ -1,0 +1,58 @@
+---
+wpId: 12145
+title: 'Trening agility dla psa, czyli jak rozwinąć sportową pasję swojego pupila'
+description: 'W jaki sposób wprowadzić nieco urozmaicenia i ruchu do czasu spędzonego z naszym czworonożnym przyjacielem? Pomocne mogą okazać się place zabaw dedykowane dla psów. Psy, podobnie jak dzieci, nie lubią nudy i chętnie uczą się nowych umiejętności. Zwłaszcza, jeśli są one przekazywane w formie wspólnej zabawy. Zestawy agility stają się coraz popularniejsze i często można ...'
+type: post
+createdAt: 2021-12-29T12:00:40
+modifiedAt: 2021-12-29T13:15:04
+author: comes_admin
+categories:
+  - bez-kategorii
+featuredMedia:
+  id: 12150
+  src: "photo-1581753418434-51c11169a3c1.jpeg"
+  alt: "Trening agility"
+  caption: "Unsplash / Petra Bouchalova"
+---
+
+
+W jaki sposób wprowadzić nieco urozmaicenia i ruchu do czasu spędzonego z naszym czworonożnym przyjacielem? Pomocne mogą okazać się place zabaw dedykowane dla psów. Psy, podobnie jak dzieci, nie lubią nudy i chętnie uczą się nowych umiejętności. Zwłaszcza, jeśli są one przekazywane w formie wspólnej zabawy. Zestawy agility stają się coraz popularniejsze i często można już je spotkać nie tylko w dużych miastach. O pozytywnym i wszechstronnym wpływie tego typu treningów na rozwój psa mówi się obecnie coraz więcej. Czym zatem jest ten efektownie wyglądający psi sport, na czym polega, i czy rzeczywiście niesie ze sobą aż tyle prozdrowotnych (i nie tylko) korzyści dla naszych zwierzaków?
+
+### **Na czym polega trening agility dla psa?**
+
+Agility jest dyscypliną sportową realizowaną w duecie pies – opiekun. Polega ona na poprawnym pokonywaniu rozmaitych przeszkód przez psa, w określonej kolejności i w reakcji na komendę opiekuna. Trasa ćwiczeniowa zawiera zazwyczaj od 10 do 20 przeszkód, do których należą elementy takie jak [tunele](https://comes.pl/p/tunel-dla-psow/), [pachołki do slalomu](https://comes.pl/p/slalom-dla-psow/), [równoważnia](https://comes.pl/p/rownowaznia/), [huśtawka](https://comes.pl/p/hustawka-dla-psow/) czy [płotek do skoków](https://comes.pl/p/plotek-do-przeskokow/). Zadanie polega na tym, aby wspólnie przebiec cały odcinek w jak najkrótszym czasie. Pies pokonuje przeszkody, a opiekun biegnie obok niego, nieustannie go dopingując i wskazując kolejność wykonywania poszczególnych zadań. Dobrze opanowany trening może wyglądać naprawdę spektakularnie, a także stanowić solidną dawkę ruchu i dobrej zabawy dla obojga.
+
+### **Od czego zacząć?**
+
+Warto już na wstępie zaznaczyć, że przed rozpoczęciem wspólnych treningów konieczne jest opanowanie podstawowych umiejętności związanych z posłuszeństwem. Pies musi najpierw nauczyć się reagować na wydawane przez nas komendy głosowe. Powinien umieć siadać, dawać łapę czy wracać do nas, kiedy wydajemy mu odpowiednie polecenie. Jeśli jeszcze nie udało nam się opanować tych umiejętności warto w pierwszej kolejności zająć się ćwiczeniem posłuszeństwa. Elementy takich ćwiczeń możemy wprowadzać juz niemal od pierwszych miesięcy życia szczeniaczka.
+
+<img loading="lazy" decoding="async" width="1541" height="1024" src="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-1541x1024.jpg" alt="Trening agility" srcset="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-1541x1024.jpg 1541w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-220x146.jpg 220w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-650x432.jpg 650w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-480x320.jpg 480w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-1080x718.jpg 1080w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-768x510.jpg 768w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-1536x1021.jpg 1536w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-230x153.jpg 230w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash-240x160.jpg 240w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/petra-bouchalova-hlwbghryfoa-unsplash.jpg 1920w" sizes="(max-width: 1541px) 100vw, 1541px" />
+
+Unsplash / Petra Bouchalova
+
+Przed rozpoczęciem treningu agility warto upewnić się również, że nasz pies nie ma zdrowotnych przeciwwskazań do tego typu aktywności ruchowej. Ze względu na dużą ilość skoków utrudnienie stanowiłaby na przykład dysplazja stawu biodrowego czy inne problemy z układem kostno – stawowym. Jeśli nie jesteśmy pewni, czy nasz pupil podoła intensywnym treningom, warto zasięgnąć opinii weterynarza. Większość psów może jednak z powodzeniem rozwijać swoją sprawność fizyczną w ramach tego sportu. Ograniczenia rasowe czy wiekowe w zasadzie nie istnieją. Należy jednak pamiętać o stopniowym zwiększaniu poziomu trudności i konsekwentnym, cierpliwym wprowadzaniu nowych elementów ćwiczeń. Zbytni pośpiech może przytłoczyć psa, który nie będzie w stanie zorientować się w natłoku nowych wrażeń. Dla nas zaś mogłoby to skutkować niepotrzebną frustracją wynikającą z braku oczekiwanych rezultatów. Jeśli nie mamy pojęcia od czego zacząć możemy zapoznać się z ofertą zajęć treningowych prowadzonych w naszym mieście i skorzystać z pomocy bardziej doświadczonego trenera.
+
+### **Korzyści płynące z regularnych treningów**
+
+Intensywniejszy trening agility dla psa mogą szczególnie spodobać się rasom żywiołowym i ruchliwym. Dla mniej energicznych czworonogów regularne ćwiczenia mają szansę stać się atrakcyjnym urozmaiceniem codziennych spacerów. Trening agility może również dodatnio wpłynąć na więź łączącą psa z opiekunem. Wspólna aktywność na świeżym powietrzu to znakomity sposób na poprawę sprawności fizycznej czy zapobieganie otyłości. Dotyczy to zarówno w przypadku psa, jak i jego opiekuna. To także dobry pomysł na ćwiczenie koncentracji naszego pupila. Warto dodać, że w przypadku psów niespokojnych i nadpobudliwych tego typu aktywność może być niezłym sposobem na ukierunkowanie nadmiaru energii na realizację konkretnych zadań. Regularny trening agility nie tylko wpływa dodatnio na rozwój intelektualny psa, ale również poprawia jego integrację z innymi psami. W przypadku psów bardziej nieufnych i lękliwych kontekst wspólnej zabawy może mieć właściwości terapeutyczne i pomóc w pokonaniu obaw zwierzaka przed innymi psami czy obcymi ludźmi.
+
+<img loading="lazy" decoding="async" width="1280" height="1024" src="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-1280x1024.jpeg" alt="Trening agility" srcset="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-1280x1024.jpeg 1280w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-220x176.jpeg 220w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-650x520.jpeg 650w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-400x320.jpeg 400w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-900x720.jpeg 900w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-768x614.jpeg 768w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-1536x1229.jpeg 1536w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-230x184.jpeg 230w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac-200x160.jpeg 200w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/photo-1635413904282-c066d0cb4fac.jpeg 1920w" sizes="(max-width: 1280px) 100vw, 1280px" />
+
+Unsplash / Petra Bouchalova
+
+### **Jak przeprowadzić trening na psim placu zabaw?**
+
+Akcesoria treningowe powinny być dobrane możliwie różnorodnie, aby dostarczyć jego użytkowniczkom jak najbardziej wszechstronnych i urozmaiconych rodzajów aktywności fizycznej. Na psim placu zabaw powinny znaleźć się zarówno proste sprzęty do ćwiczeń, takie jak tunele, kładki czy [stacjonaty](https://comes.pl/p/podest/), jak i bardziej zaawansowane – [obręcze](https://comes.pl/p/obrecze-do-przeskokow/) i płotki do przeskoków, równoważnie czy stopnie do skakania. W [ofercie COMES](https://comes.pl/kategoria/wybiegi-dla-psow/) znajdują się wszystkie elementy, jakie są potrzebne do przygotowania odpowiedniej trasy do treningu agility. Te urządzenia zbudowane są z trwałych i odpornych na uszkodzenia czy niekorzystne warunki atmosferyczne materiałów – tworzywa HDPE oraz stali malowanej proszkowo. Warto także wspomnieć, że kolorystyka tego sprzętu podyktowana jest możliwościami wzrokowymi psów, które najlepiej widzą kolor niebieski oraz żółty.
+
+Zacznijcie od tych najmniej skomplikowanych elementów i z czasem zwiększajcie poziom trudności. Pamiętaj o nagradzaniu swojego pupila po każdym wykonanym zadaniu, nawet jeśli nie wyszło ono idealnie. Do każdej przeszkody należy wybrać osobną komendę. Jeśli wykażesz się cierpliwością, po niedługim czasie możecie zyskać fascynujące, wspólne hobby.
+
+<img loading="lazy" decoding="async" width="1536" height="1024" src="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-1536x1024.jpg" alt="Alt attribute missing" srcset="/images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-1536x1024.jpg 1536w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-220x147.jpg 220w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-650x433.jpg 650w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-480x320.jpg 480w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-1080x720.jpg 1080w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-768x512.jpg 768w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-230x153.jpg 230w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13-240x160.jpg 240w, /images/posts/trening-agility-dla-psa-czyli-jak-rozwinac-sportowa-pasje-swojego-pupila/psi-wybieg-kielce-6-of-13.jpg 1600w" sizes="(max-width: 1536px) 100vw, 1536px" />
+
+[Plac zabaw dla psów w Kielcach.](https://comes.pl/r/wybieg-dla-psow-w-kielcach/) Urządzenia i wykonanie COMES
+
+* * *
+
+Zainteresowany/a psimi placami zabaw? [Napisz do nas](https://comes.pl/kontakt/). Chętnie odpowiemy na Twoje pytania.  
+Zapraszamy też do śledzenia nas na [Facebooku](https://www.facebook.com/pl.comes/)!
+
+* * *

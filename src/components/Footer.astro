@@ -1,0 +1,14 @@
+---
+import NavSub from "./nav/NavSub.astro"
+import SocialLinks from "./nav/NavSocial.astro"
+import { SITE_COMPANY } from "src/consts"
+const year = new Date().getFullYear()
+---
+
+<footer class="bg-neutral-800 pb-8 pt-12 text-neutral-300">
+	<div class="mx-auto flex w-full max-w-5xl flex-col justify-center gap-8 px-4">
+		<SocialLinks />
+		<NavSub />
+		<small class="pt-4 text-center">Copyright © {`${SITE_COMPANY} ${year}`}</small>
+	</div>
+</footer>

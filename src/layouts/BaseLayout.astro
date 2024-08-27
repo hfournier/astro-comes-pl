@@ -1,0 +1,26 @@
+---
+import BaseHead from "@components/BaseHead.astro"
+import Footer from "@components/Footer.astro"
+import Header from "@components/Header.astro"
+import Hero from "@components/Hero.astro"
+// import "../styles/fonts.css";
+import "../styles/tailwind.css"
+---
+
+<html lang="en" class="scrollable flex min-h-dvh flex-col motion-safe:scroll-smooth">
+	<head>
+		<BaseHead><slot name="head" slot="head" /></BaseHead>
+	</head>
+	<body class="flex grow flex-col">
+		<a
+			href="#content"
+			class="focus:sr-undo sr-only z-50 bg-blue-300 text-white focus:absolute focus:px-16 focus:py-10"
+		>
+			Skip to Main Content
+		</a>
+		<Header />
+		{Astro.url.pathname === "/" && <Hero />}
+		<slot />
+		<Footer />
+	</body>
+</html>

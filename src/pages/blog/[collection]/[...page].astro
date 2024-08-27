@@ -1,0 +1,36 @@
+---
+import BlogList from "@components/BlogList.astro"
+import { paginate } from "@utils/pagination"
+import { getCollection, getEntry, type DataCollectionKey } from "astro:content"
+
+export const prerender = false
+
+const author = Astro.url.searchParams.get("author")
+const category = Astro.url.searchParams.get("category")
+const tags = Astro.url.searchParams.get("tags")?.slice(1, -1).split(",")
+const { collection } = Astro.params
+
+const blogTypes = await getEntry("blog_types", collection as DataCollectionKey)
+if (!blogTypes) {
+	return new Response(null, { status: 404, statusText: "Page not found" })
+}
+
+let entries = await getCollection(
+	"blogs",
+	(entry) =>
+		entry.id.startsWith(`${collection}/`) &&
+		(!author || entry.data.author?.id === author) &&
+		(!category || entry.data.categories?.some((c) => c.id === category)) &&
+		(!tags || tags.every((t) => entry.data.tags?.some((dt) => dt.id === t)))
+)
+
+if (entries && entries.length > 0) {
+	entries = entries.sort(
+		(a, b) => new Date(b.data.createdAt).valueOf() - new Date(a.data.createdAt).valueOf()
+	)
+}
+
+const page = await paginate(entries, Astro.url)
+---
+
+{collection && <BlogList {page} {collection} />}

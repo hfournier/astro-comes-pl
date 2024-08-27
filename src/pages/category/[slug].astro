@@ -1,0 +1,45 @@
+---
+import { getCollection, type CollectionEntry } from "astro:content"
+import MainLayout from "@layouts/MainLayout.astro"
+import AsideShare from "@components/aside/AsideShare.astro"
+import Aside from "@components/aside/Aside.astro"
+import AsideCategory from "@components/aside/AsideCategory.astro"
+import Seo from "@components/seo/Seo.astro"
+import { SITE_TITLE } from "src/consts"
+
+export async function getStaticPaths() {
+	const entries = await getCollection("categories")
+	return entries.map((entry) => ({
+		params: { slug: entry.data.slug },
+		props: { entry }
+	}))
+}
+
+interface Props {
+	entry: CollectionEntry<"categories">
+}
+const { entry } = Astro.props
+---
+
+<MainLayout>
+	{entry.data.seo && <Seo slot="head" seo={entry.data.seo} options={{ brand: SITE_TITLE }} />}
+	{
+		!entry.data.seo && (
+			<Seo
+				slot="head"
+				seo={{ title: entry.data.name, description: entry.data.description }}
+				options={{ brand: SITE_TITLE }}
+			/>
+		)
+	}
+	<div class="grid gap-12 md:grid-cols-[2fr,_1fr] lg:grid-cols-[3fr,_1fr]">
+		<div class="">
+			<h1>{entry.data.name}</h1>
+			{entry.data.description && <p>{entry.data.description}</p>}
+		</div>
+		<Aside>
+			<AsideShare title={entry.data.name} />
+			<AsideCategory {entry} />
+		</Aside>
+	</div>
+</MainLayout>

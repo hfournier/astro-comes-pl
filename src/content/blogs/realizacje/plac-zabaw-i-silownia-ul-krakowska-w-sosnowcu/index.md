@@ -1,0 +1,44 @@
+---
+wpId: 2005
+title: 'Plac zabaw i siłownia ul. Krakowska w Sosnowcu'
+description: 'Kolejnym obiektem, który wybudowaliśmy w ramach Budżetu Obywatelskiego w Sosnowcu jest plac zabaw wraz z elementami siłowni plenerowej przy ul. Krakowskiej.'
+type: realizacje
+createdAt: 2017-01-23T10:28:16
+modifiedAt: 2024-07-30T17:17:07
+author: comes_admin
+---
+
+
+Kompleksowa realizacja wyposażona została w tzw. urządzenia fitness, urządzenia zabawowe, ławki, kosze na śmieci, stojaki na rowery, ogrodzenie, ścieżki gruntowe, bezpieczne nawierzchnie z mat przerostowych „Poly-Easi”, nasadzenia ozdobne oraz tablicę z regulaminem korzystania z obiektu.
+
+Na terenie obiektu znalazły się:
+
+*   Zestaw rekreacyjny modułowy 06.48.38,
+*   Zestaw rekreacyjny Julek C,
+*   Huśtawka wahadłowa Piotr AAG,
+*   Huśtawka sprężynowa Ryś Max,
+*   Huśtawka sprężynowa Rodeo Max,
+*   Huśtawka sprężynowa Konik,
+*   Piaskownica Gucio,
+*   cztery dwustanowiskowe urządzenia fitness przymocowane do pylonu,
+*   ławki, kosze na śmieci oraz regulamin korzystania z obiektu.
+
+Połączenie placu zabaw i siłowni plenerowej to obecnie bardzo popularne rozwiązanie, pozwalające również opiekunom dzieci bawiących się na placu zabaw aktywnie spędzić czas na świeżym powietrzu.
+
+Obecnie czekamy jeszcze na ostatni etap naszej realizacji, czyli soczyście zielony trawnik, który przerośnie maty bezpiecznej nawierzchni, przestrzenie między urządzeniami i dopełni całość . Choć ten element pojawi się dopiero wiosną, niektórzy użytkownicy już nie mogli się doczekać;)
+
+\[su\_gmap width=”1200″ height=”400″ address=”Sosnowiec, ul. Krakowska”\]
+
+## Galeria zdjęć
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-2/)
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-3/)
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-4/)
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-5/)
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-6/)
+
+[<img loading="lazy" decoding="async" width="480" height="320" src="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-480x320.jpg" alt="plac zabaw Sosnowiec" srcset="/images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-480x320.jpg 480w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-220x147.jpg 220w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-650x434.jpg 650w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-768x513.jpg 768w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-230x154.jpg 230w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec-240x160.jpg 240w, /images/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec.jpg 800w" sizes="(max-width: 480px) 100vw, 480px" />](https://comes.pl/realizacje/plac-zabaw-i-silownia-ul-krakowska-w-sosnowcu/plac-zabaw-ul-krakowska-sosnowiec/)

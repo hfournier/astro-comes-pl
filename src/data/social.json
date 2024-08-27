@@ -1,0 +1,32 @@
+[
+	{
+		"href": "#",
+		"text": "YouTube",
+		"icon": "youtube",
+		"pack": "mdi"
+	},
+	{
+		"href": "#",
+		"text": "Facebook",
+		"icon": "facebook",
+		"pack": "mdi"
+	},
+	{
+		"href": "#",
+		"text": "Instagram",
+		"icon": "instagram",
+		"pack": "mdi"
+	},
+	{
+		"href": "#",
+		"text": "Twitter",
+		"icon": "twitter",
+		"pack": "mdi"
+	},
+	{
+		"href": "/rss.xml",
+		"text": "RSS",
+		"icon": "rss",
+		"pack": "mdi"
+	}
+]

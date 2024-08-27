@@ -1,0 +1,15 @@
+---
+import { Image } from "astro:assets"
+import pageNotFound from "@assets/404.png"
+import BaseLayout from "@layouts/BaseLayout.astro"
+---
+
+<BaseLayout
+	title="Page not found"
+	description="Sorry, we couldn't find the page you were looking for"
+>
+	<main class="mx-auto py-2">
+		<div class="sr-only">Oops! Something went wrong. We couldn't find that page.</div>
+		<Image src={pageNotFound} alt="Lunar landscape with astronaut asking alien for directions" />
+	</main>
+</BaseLayout>

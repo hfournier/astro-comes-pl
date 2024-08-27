@@ -1,0 +1,22 @@
+---
+import social from "@data/social.json"
+import { Icon } from "astro-icon/components"
+---
+
+<nav
+	aria-label="Social Navigation"
+	class="flex flex-wrap items-center justify-center space-x-8 px-2 sm:space-x-12 md:space-x-16"
+>
+	{
+		social.map(({ href, text, icon, pack }) => (
+			<a
+				class="rounded-sm !text-neutral-300 no-underline underline-offset-4 hover:text-neutral-100 hover:underline focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-neutral-300 focus-visible:ring-offset-4 focus-visible:ring-offset-neutral-800"
+				href={href}
+				target="social"
+			>
+				<span class="sr-only">{text}</span>
+				<Icon name={`${pack}:${icon}`} class="size-10" aria-hidden="true" />
+			</a>
+		))
+	}
+</nav>

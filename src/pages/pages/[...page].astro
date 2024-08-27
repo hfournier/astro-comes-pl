@@ -1,0 +1,72 @@
+---
+import type { GetStaticPaths, Page } from "astro"
+import Pagination from "@components/Pagination.astro"
+import MainLayout from "@layouts/MainLayout.astro"
+import { getCollection, type CollectionEntry } from "astro:content"
+import BlogCard from "@components/BlogCard.astro"
+import Seo from "@components/seo/Seo.astro"
+import { SITE_TITLE } from "src/consts"
+
+export const getStaticPaths = (async ({ paginate }) => {
+	let entries = await getCollection("pages")
+	if (entries && entries.length > 0) {
+		entries = entries.sort((a, b) => {
+			const titleA = a.data.name.toUpperCase() // ignore upper and lowercase
+			const titleB = b.data.name.toUpperCase() // ignore upper and lowercase
+			if (titleA < titleB) {
+				return -1
+			}
+			if (titleA > titleB) {
+				return 1
+			}
+
+			// titles must be equal
+			return 0
+		})
+	}
+
+	return paginate(entries, { pageSize: 12 })
+}) satisfies GetStaticPaths
+
+interface Props {
+	page: Page<CollectionEntry<"pages">>
+}
+const { page } = Astro.props
+
+const title = "All the Pages"
+const description = "Description of all the pages"
+---
+
+<MainLayout>
+	<Seo slot="head" seo={{ title, description }} options={{ brand: SITE_TITLE }} />
+	<section>
+		<h1>Pages</h1>
+		<div class="grid grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3">
+			{
+				page &&
+					page.data.map((entry) => (
+						<BlogCard
+							title={entry.data.name}
+							link={`/${entry.data.slug}`}
+							slug={entry.id}
+							mediaSrc={entry.data.featuredMedia?.src}
+							mediaAlt={entry.data.featuredMedia?.alt}
+						>
+							{entry.data.description}
+						</BlogCard>
+					))
+			}
+		</div>
+		{
+			page && page.total > 12 && (
+				<Pagination
+					prevUrl={page.url.prev}
+					currentUrl={page.url.current}
+					nextUrl={page.url.next}
+					currentPage={page.currentPage}
+					lastPage={page.lastPage}
+				/>
+			)
+		}
+	</section>
+</MainLayout>

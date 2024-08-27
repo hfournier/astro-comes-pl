@@ -1,0 +1,14 @@
+---
+import { Icon } from "astro-icon/components"
+import NavSubLink from "./NavSubLink.astro"
+export interface Props {
+	href: string
+}
+
+const { href } = Astro.props as Props
+---
+
+<li class="flex flex-nowrap">
+	<Icon class="mt-0.5 size-5 shrink-0" name="mdi:arrow-right-thin" />
+	<NavSubLink {href}><slot /></NavSubLink>
+</li>
